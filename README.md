@@ -2,6 +2,7 @@
 - Nama : SHERLY AYUMI FADILAH
 - NIM : 2409020115
 - Link demo : https://fadilahayumi657-png.github.io/arvr-prak-2409020115/
+
 Project ini berisi scene WebXR pertama menggunakan A-Frame 1.7.1.
 
 
